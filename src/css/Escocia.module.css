@@ -1,0 +1,11 @@
+.fundo_escocia{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url(../assets/imagens/Escocia.jfif);
+    background-size: cover;
+    
+}
+.imagen_com {
+    width: 50px;
+}
